@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mapsite.github.io/MAPSITE/sitemap.xml
